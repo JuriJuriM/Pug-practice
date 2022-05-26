@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JuriJuriM/Pug-practice/issues"
   },
-  "homepage": "https://github.com/JuriJuriM/Pug-practice#readme"
+  "homepage": "https://github.com/JuriJuriM/Pug-practice#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
